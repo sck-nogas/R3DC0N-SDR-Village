@@ -1,1 +1,5 @@
 brew install gnuradio xquartz soapyrtlsdr
+
+# find / -name gnuradio-companion to find out where it installed?
+#
+# Could be in /usr/loca/cellar
